@@ -1,0 +1,4 @@
+github "BoltsFramework/Bolts-ObjC" "1.8.4"
+github "BoltsFramework/Bolts-Swift" "1.3.0"
+github "facebook/SocketRocket" "877ac7438be3ad0b45ef5ca3969574e4b97112bf"
+github "ParsePlatform/Parse-SDK-iOS-OSX" "1.14.2"
